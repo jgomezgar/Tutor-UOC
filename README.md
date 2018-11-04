@@ -47,4 +47,10 @@ La opción 3, permite actualizar la configuracion:
 * Password.
 * Path: ruta donde guardar los ficheros generados.
 
-## Para el primer uso, es necesario 1º Configurar "SETTINGs" y 2º cargar "TODO"
+
+## Para el primer uso, es necesario:
+
+1º Configurar "SETTINGs" 
+2º cargar "TODO"
+
+
