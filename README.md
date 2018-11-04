@@ -15,7 +15,7 @@ Adicionalmente es necesario el Driver para Chrome de Selenium:
 https://sites.google.com/a/chromium.org/chromedriver/downloads
 ```
 ## USO
-Al ejecutar el script Tutorias.py obtendremos el siguiente menu:
+Al ejecutar el script Tutorias.py se obtiene el siguiente menu:
 
 ```
 
