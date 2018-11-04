@@ -12,7 +12,7 @@ pip install beautifulsoup4
 ```
 Adicionalmente es necesario el Driver para Chrome de Selenium:
 ```
-https://sites.google.com/a/chromium.org/chromedriver/downloads
+[https://sites.google.com/a/chromium.org/chromedriver/downloads](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 ```
 ## USO
 Al ejecutar el script Tutorias.py se obtiene el siguiente menu:
@@ -42,7 +42,7 @@ La opción 2, carga toda la estructura de datos necesaria:
   
 La opción 3, permite actualizar la configuracion:
 * Semestre
-* Subarea : código del plan general.
+* Subarea: código del plan general.
 * Usuario.
 * Password.
 * Path: ruta donde guardar los ficheros generados.
