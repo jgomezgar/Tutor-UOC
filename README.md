@@ -11,9 +11,9 @@ pip install lxml
 pip install beautifulsoup4
 ```
 Adicionalmente es necesario el Driver para Chrome de Selenium:
-```
+
 [https://sites.google.com/a/chromium.org/chromedriver/downloads](https://sites.google.com/a/chromium.org/chromedriver/downloads)
-```
+
 ## USO
 Al ejecutar el script Tutorias.py se obtiene el siguiente menu:
 
