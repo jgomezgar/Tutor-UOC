@@ -170,7 +170,7 @@ def ASIGNATURAS(SESSION, IDP, anyAcademic):
 
 
 
-def PECS(SESSION,User_Id,Semestre,Asig_Code,Aula):
+def PECS(SESSION,Ficha_code,User_Id,Semestre,Asig_Code,Aula):
 	### PECS ###
 	URL_PEC="http://cv.uoc.edu/UOC/rac/estudiante.html?s="+ SESSION +"&anyAcademic="+Semestre+"&codiTercers="+Asig_Code+"&numAula="+Aula+"&userId="+User_Id
 	global browser
@@ -180,6 +180,7 @@ def PECS(SESSION,User_Id,Semestre,Asig_Code,Aula):
 	PEC_soup = soup(browser.page_source, "html.parser")
 	ID=[]
 	### Semester;Asig_code;Aula;userId
+	ID.append(Ficha_code)
 	ID.append(User_Id)
 	ID.append(Semestre)
 	ID.append(Asig_Code)
@@ -295,13 +296,13 @@ def MENU_TODO():
 		cuenta +=1
 		backspace(len(str(round(100*cuenta/tot)) +"%"))
 		print("Procesando PECs:   "+  str(round(100*cuenta/tot)) +"%", end='')
-		###							(SESSION, User_Id, Semestre,Asig_Code ,Aula)
-		pecs=pecs + PECS(session, asig[1], asig[2], asig[4], asig[5])
+		###							(SESSION, Ficha_Code, User_Id, Semestre,Asig_Code ,Aula)
+		pecs=pecs + PECS(session, asig[0],asig[1], asig[2], asig[4], asig[5])
 	
 	# name the output file to write to local disk
 	out_filename=path+"PECS.csv"
 	# header of csv file to be written
-	headers = "User_Id;Semestre;Asig_Code;Aula;PEC;PEC_Fecha;PEC_Entrega;PEC_Nota;PEC_Publicacion"
+	headers = "Ficha_Code;User_Id;Semestre;Asig_Code;Aula;PEC;PEC_Fecha;PEC_Entrega;PEC_Nota;PEC_Publicacion"
 	# opens file, and writes
 	Guardar_CSV(out_filename, headers.split(sep=';'), pecs)
 	print()
@@ -352,11 +353,12 @@ def MENU_UPDATE():
 			cuenta +=1
 			backspace(len(str(round(100*cuenta/tot)) +"%"))
 			print("Procesando PECs:   "+  str(round(100*cuenta/tot)) +"%", end='')
-			###							(SESSION, User_Id, Semestre,Asig_Code ,Aula)
-			pecs=pecs + PECS(session, asig[1], asig[2], asig[4], asig[5])
+			###							(SESSION, Ficha_Code, User_Id, Semestre,Asig_Code ,Aula)
+			pecs=pecs + PECS(session, asig[0], asig[1], asig[2], asig[4], asig[5])
+			headers = "Ficha_Code;User_Id;Semestre;Asig_Code;Aula;PEC;PEC_Fecha;PEC_Entrega;PEC_Nota;PEC_Publicacion"
 		# opens file, and writes
 		out_filename=path + "PECs.csv"
-		Guardar_CSV(out_filename, asig_head, pecs)
+		Guardar_CSV(out_filename, headers.split(sep=';'), pecs)
 		browser.quit()
 	else: 
 		main("NO EXISTE: "+filename)
