@@ -34,11 +34,11 @@ La opción 1, actualiza la informacion semanal acerca del alumno:
     
 La opción 2, carga toda la estructura de datos necesaria:
 
-  - *Planes* de estudio en los que colabora el Tutor.
-  - *Alumnos* tutorizados bajo cada Plan.
-  - *Asignaturas* de cada alumno del semestre.
-  - *Última conexión* al Campus.
-  - *PECs* de las asignaturas del semestre.
+  - **Planes** de estudio en los que colabora el Tutor.
+  - **Alumnos** tutorizados bajo cada Plan.
+  - **Asignaturas** de cada alumno del semestre.
+  - **Última conexión** al Campus.
+  - **PECs** de las asignaturas del semestre.
   
 La opción 3, permite actualizar la configuracion:
 * Semestre
