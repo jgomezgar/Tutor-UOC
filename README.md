@@ -34,7 +34,7 @@ Su seleccion:
 > 2º cargar "TODO".
 
 
-La **opción 1**, actualiza la informacion semanal acerca del alumno:
+La **opción 1**, actualiza la información de actividad del alumno:
 * Última conexión al campus.
 * Fechas de Entrega y Calificaciones de sus PEC.
     
@@ -46,7 +46,7 @@ La **opción 2**, carga toda la estructura de datos necesaria:
   - **Última conexión** al Campus.
   - **PECs** de las asignaturas del semestre.
   
-La **opción 3**, permite actualizar la configuracion:
+La **opción 3**, permite actualizar la configuración:
 * Semestre
 * Subarea: código del plan general.
 * Usuario.
