@@ -1,0 +1,404 @@
+Ficha_code;User_Id;Semestre;Asign_Nom;Asig_Code;Aula;Asign_Prof
+896031;993628;20181;Trabajo final de máster MIB-AD;B2.342;1;*******
+887910;994256;20181;Trabajo final de máster MIB-SI;B2.343;1;*******
+790472;973815;20181;Trabajo final de máster MIB-SI;B2.343;1;*******
+790472;973815;20181;Escenarios de uso de Big Data;B2.584;2;*******
+790472;973815;20181;Bases de Datos NoSQL;B2.586;1;*******
+916595;1019701;20181;Trabajo final de máster MIB-SI;B2.343;1;*******
+896546;994263;20181;Trabajo final de máster MIB-AD;B2.342;1;*******
+643548;407933;20181;Trabajo final de máster MIB-AD;B2.342;1;*******
+895912;993439;20181;Trabajo final de máster MIB-AD;B2.342;1;*******
+895582;993014;20181;Trabajo final de máster MIB-AD;B2.342;1;*******
+901669;1000817;20181;Trabajo final de máster MIB-AD;B2.342;1;*******
+911036;1014520;20181;Trabajo final de máster MIB-AD;B2.342;1;*******
+900473;999380;20181;Trabajo final de máster MIB-AD;B2.342;1;*******
+915147;1016479;20181;Trabajo final de máster MIB-AD;B2.342;1;*******
+896373;994076;20181;Trabajo final de máster MIB-SI;B2.343;1;*******
+907716;1007138;20181;Trabajo final de máster MIB-AD;B2.342;1;*******
+900470;999378;20181;Trabajo final de máster MIB-AD;B2.342;1;*******
+901247;1000335;20181;Trabajo final de máster MIB-AD;B2.342;1;*******
+457365;214856;20181;Trabajo final de máster MIB-AD;B2.342;1;*******
+504896;271551;20181;Trabajo final de máster MIB-SI;B2.343;1;*******
+504896;271551;20181;Bases de Datos para Data Warehouse;B2.582;1;*******
+504896;271551;20181;Escenarios de uso de Big Data;B2.584;1;*******
+902978;1001826;20181;Trabajo final de máster MIB-AD;B2.342;1;*******
+914363;1014536;20181;Trabajo final de máster MIB-AD;B2.342;1;*******
+910113;1009561;20181;Trabajo final de máster MIB-AD;B2.342;1;*******
+745115;563429;20181;Trabajo final de máster MIB-AD;B2.342;1;*******
+887834;980701;20181;Trabajo final de máster MIB-AD;B2.342;1;*******
+412141;131203;20181;Trabajo final de máster MIB-AD;B2.342;1;*******
+884402;973795;20181;Trabajo final de máster MIB-AD;B2.342;1;*******
+885653;975431;20181;Trabajo final de máster MIB-SI;B2.343;1;*******
+885653;975431;20181;Diseño y Construcción del Almacén de Datos Data warehouse;B2.581;1;*******
+570103;334220;20181;Trabajo final de máster MIB-AD;B2.342;1;*******
+886253;976155;20181;Sistemas de Soporte a la Decisión;B2.327;1;*******
+886253;976155;20181;Gestión Económico-Financiera: Casos de Negocio;B2.328;1;*******
+886253;976155;20181;Operaciones y Logística: Casos de Negocio;B2.330;1;*******
+934334;1054939;20181;Trabajo final posgrado SI;B2.341;1;*******
+1025650;1200258;20181;Diseño y Construcción del Almacén de Datos Data warehouse;B2.581;1;*******
+1025650;1200258;20181;Bases de Datos para Data Warehouse;B2.582;1;*******
+1025650;1200258;20181;Explotación y Administración del Data Warehouse;B2.583;1;*******
+1024223;1196056;20181;Fundamentos de Inteligencia de Negocio;B2.320;2;*******
+1024223;1196056;20181;Gestión de Proyectos de BI;B2.321;1;*******
+1024223;1196056;20181;Fundamentos y Usos de Big Data;B2.577;2;*******
+1024223;1196056;20181;Pensamiento Analítico en la Empresa;B2.578;1;*******
+1025653;1200276;20181;Fundamentos de Inteligencia de Negocio;B2.320;3;*******
+1025653;1200276;20181;Gestión de Proyectos de BI;B2.321;3;*******
+1025653;1200276;20181;Fundamentos y Usos de Big Data;B2.577;3;*******
+1025653;1200276;20181;Pensamiento Analítico en la Empresa;B2.578;3;*******
+1027462;1204213;20181;Fundamentos de Inteligencia de Negocio;B2.320;1;*******
+1027462;1204213;20181;Gestión de Proyectos de BI;B2.321;1;*******
+1027462;1204213;20181;Fundamentos y Usos de Big Data;B2.577;1;*******
+1027462;1204213;20181;Pensamiento Analítico en la Empresa;B2.578;1;*******
+1024811;1197418;20181;Fundamentos de Inteligencia de Negocio;B2.320;2;*******
+1024811;1197418;20181;Gestión de Proyectos de BI;B2.321;2;*******
+1024811;1197418;20181;Fundamentos y Usos de Big Data;B2.577;2;*******
+1024811;1197418;20181;Pensamiento Analítico en la Empresa;B2.578;2;*******
+868305;949163;20181;Fundamentos de Inteligencia de Negocio;B2.320;1;*******
+868305;949163;20181;Gestión de Proyectos de BI;B2.321;1;*******
+868305;949163;20181;Fundamentos y Usos de Big Data;B2.577;1;*******
+868305;949163;20181;Pensamiento Analítico en la Empresa;B2.578;1;*******
+444123;195634;20181;Minería de Datos: Conceptos y Técnicas;B2.324;1;*******
+444123;195634;20181;Business Analytics: Modelos y Algoritmos;B2.325;3;*******
+444123;195634;20181;Sistemas de reporting y cuadros de mando;B2.579;2;*******
+444123;195634;20181;Gobierno de datos (Data governance);B2.580;1;*******
+1026223;1202788;20181;Fundamentos de Inteligencia de Negocio;B2.320;1;*******
+1026223;1202788;20181;Gestión de Proyectos de BI;B2.321;1;*******
+1026223;1202788;20181;Fundamentos y Usos de Big Data;B2.577;1;*******
+1026223;1202788;20181;Pensamiento Analítico en la Empresa;B2.578;1;*******
+488215;250716;20181;Minería de Datos: Conceptos y Técnicas;B2.324;1;*******
+488215;250716;20181;Business Analytics: Modelos y Algoritmos;B2.325;1;*******
+488215;250716;20181;Sistemas de reporting y cuadros de mando;B2.579;2;*******
+488215;250716;20181;Gobierno de datos (Data governance);B2.580;1;*******
+618889;1054740;20181;Minería de Datos: Conceptos y Técnicas;B2.324;1;*******
+618889;1054740;20181;Business Analytics: Modelos y Algoritmos;B2.325;2;*******
+618889;1054740;20181;Sistemas de reporting y cuadros de mando;B2.579;2;*******
+618889;1054740;20181;Gobierno de datos (Data governance);B2.580;2;*******
+896457;994213;20181;Minería de Datos: Conceptos y Técnicas;B2.324;3;*******
+896457;994213;20181;Gobierno de datos (Data governance);B2.580;1;*******
+1025322;1204372;20181;Fundamentos de Inteligencia de Negocio;B2.320;1;*******
+1025322;1204372;20181;Gestión de Proyectos de BI;B2.321;1;*******
+1025322;1204372;20181;Fundamentos y Usos de Big Data;B2.577;1;*******
+1025322;1204372;20181;Pensamiento Analítico en la Empresa;B2.578;1;*******
+1025551;1200029;20181;Fundamentos de Inteligencia de Negocio;B2.320;1;*******
+1025551;1200029;20181;Gestión de Proyectos de BI;B2.321;3;*******
+1025551;1200029;20181;Fundamentos y Usos de Big Data;B2.577;1;*******
+1025551;1200029;20181;Pensamiento Analítico en la Empresa;B2.578;1;*******
+1025271;1199837;20181;Fundamentos de Inteligencia de Negocio;B2.320;3;*******
+1025271;1199837;20181;Gestión de Proyectos de BI;B2.321;3;*******
+1025271;1199837;20181;Fundamentos y Usos de Big Data;B2.577;1;*******
+1025271;1199837;20181;Pensamiento Analítico en la Empresa;B2.578;3;*******
+715416;551249;20181;Fundamentos de Inteligencia de Negocio;B2.320;1;*******
+715416;551249;20181;Gestión de Proyectos de BI;B2.321;1;*******
+715416;551249;20181;Fundamentos y Usos de Big Data;B2.577;1;*******
+715416;551249;20181;Pensamiento Analítico en la Empresa;B2.578;1;*******
+1001945;1165068;20181;Fundamentos de Inteligencia de Negocio;B2.320;1;*******
+1001945;1165068;20181;Gestión de Proyectos de BI;B2.321;2;*******
+1001945;1165068;20181;Fundamentos y Usos de Big Data;B2.577;1;*******
+1001945;1165068;20181;Pensamiento Analítico en la Empresa;B2.578;1;*******
+1021913;1190737;20181;Fundamentos de Inteligencia de Negocio;B2.320;2;*******
+1021913;1190737;20181;Gestión de Proyectos de BI;B2.321;1;*******
+1021913;1190737;20181;Fundamentos y Usos de Big Data;B2.577;2;*******
+1021913;1190737;20181;Pensamiento Analítico en la Empresa;B2.578;1;*******
+1025303;1200176;20181;Fundamentos de Inteligencia de Negocio;B2.320;1;*******
+1025303;1200176;20181;Gestión de Proyectos de BI;B2.321;1;*******
+1025303;1200176;20181;Fundamentos y Usos de Big Data;B2.577;1;*******
+1025303;1200176;20181;Pensamiento Analítico en la Empresa;B2.578;1;*******
+932885;1200216;20181;Minería de Datos: Conceptos y Técnicas;B2.324;1;*******
+932885;1200216;20181;Business Analytics: Modelos y Algoritmos;B2.325;2;*******
+932885;1200216;20181;Sistemas de reporting y cuadros de mando;B2.579;1;*******
+932885;1200216;20181;Gobierno de datos (Data governance);B2.580;1;*******
+1024450;1195977;20181;Fundamentos y Usos de Big Data;B2.577;1;*******
+1016337;1200456;20181;Minería de Datos: Conceptos y Técnicas;B2.324;1;*******
+1016337;1200456;20181;Business Analytics: Modelos y Algoritmos;B2.325;2;*******
+1016337;1200456;20181;Sistemas de reporting y cuadros de mando;B2.579;1;*******
+1016337;1200456;20181;Gobierno de datos (Data governance);B2.580;1;*******
+1025725;1200576;20181;Fundamentos de Inteligencia de Negocio;B2.320;1;*******
+1025725;1200576;20181;Gestión de Proyectos de BI;B2.321;1;*******
+1025725;1200576;20181;Fundamentos y Usos de Big Data;B2.577;1;*******
+1025725;1200576;20181;Pensamiento Analítico en la Empresa;B2.578;1;*******
+504896;271551;20181;Trabajo final de máster MIB-SI;B2.343;1;*******
+504896;271551;20181;Bases de Datos para Data Warehouse;B2.582;1;*******
+504896;271551;20181;Escenarios de uso de Big Data;B2.584;1;*******
+537371;306799;20181;Fundamentos de Inteligencia de Negocio;B2.320;3;*******
+537371;306799;20181;Gestión de Proyectos de BI;B2.321;3;*******
+537371;306799;20181;Fundamentos y Usos de Big Data;B2.577;3;*******
+537371;306799;20181;Pensamiento Analítico en la Empresa;B2.578;2;*******
+1001520;1164545;20181;Fundamentos de Inteligencia de Negocio;B2.320;2;*******
+1001520;1164545;20181;Gestión de Proyectos de BI;B2.321;2;*******
+1001520;1164545;20181;Fundamentos y Usos de Big Data;B2.577;1;*******
+1001520;1164545;20181;Pensamiento Analítico en la Empresa;B2.578;1;*******
+1022744;1200096;20181;Fundamentos de Inteligencia de Negocio;B2.320;1;*******
+1022744;1200096;20181;Gestión de Proyectos de BI;B2.321;1;*******
+1022744;1200096;20181;Fundamentos y Usos de Big Data;B2.577;1;*******
+1022744;1200096;20181;Pensamiento Analítico en la Empresa;B2.578;1;*******
+579187;342879;20181;Fundamentos de Inteligencia de Negocio;B2.320;3;*******
+579187;342879;20181;Gestión de Proyectos de BI;B2.321;3;*******
+579187;342879;20181;Fundamentos y Usos de Big Data;B2.577;3;*******
+579187;342879;20181;Pensamiento Analítico en la Empresa;B2.578;1;*******
+1001922;1165024;20181;Fundamentos de Inteligencia de Negocio;B2.320;2;*******
+1001922;1165024;20181;Gestión de Proyectos de BI;B2.321;1;*******
+1001922;1165024;20181;Fundamentos y Usos de Big Data;B2.577;2;*******
+1001922;1165024;20181;Pensamiento Analítico en la Empresa;B2.578;3;*******
+1001398;1164402;20181;Fundamentos de Inteligencia de Negocio;B2.320;2;*******
+1001398;1164402;20181;Gestión de Proyectos de BI;B2.321;2;*******
+1001398;1164402;20181;Fundamentos y Usos de Big Data;B2.577;2;*******
+1001398;1164402;20181;Pensamiento Analítico en la Empresa;B2.578;2;*******
+1002055;1165200;20181;Fundamentos de Inteligencia de Negocio;B2.320;2;*******
+1002055;1165200;20181;Gestión de Proyectos de BI;B2.321;1;*******
+1002055;1165200;20181;Fundamentos y Usos de Big Data;B2.577;2;*******
+1002055;1165200;20181;Pensamiento Analítico en la Empresa;B2.578;3;*******
+852256;924998;20181;Fundamentos de Inteligencia de Negocio;B2.320;3;*******
+852256;924998;20181;Gestión de Proyectos de BI;B2.321;3;*******
+852256;924998;20181;Fundamentos y Usos de Big Data;B2.577;3;*******
+852256;924998;20181;Pensamiento Analítico en la Empresa;B2.578;2;*******
+1006900;1171562;20181;Fundamentos de Inteligencia de Negocio;B2.320;1;*******
+1006900;1171562;20181;Gestión de Proyectos de BI;B2.321;2;*******
+1006900;1171562;20181;Fundamentos y Usos de Big Data;B2.577;2;*******
+1006900;1171562;20181;Pensamiento Analítico en la Empresa;B2.578;3;*******
+593524;357248;20181;Bases de Datos NoSQL;B2.586;1;*******
+521061;316686;20181;Minería de Datos: Conceptos y Técnicas;B2.324;1;*******
+521061;316686;20181;Business Analytics: Modelos y Algoritmos;B2.325;2;*******
+521061;316686;20181;Sistemas de reporting y cuadros de mando;B2.579;2;*******
+521061;316686;20181;Gobierno de datos (Data governance);B2.580;3;*******
+1022972;1192681;20181;Fundamentos de Inteligencia de Negocio;B2.320;1;*******
+1022972;1192681;20181;Gestión de Proyectos de BI;B2.321;2;*******
+1022972;1192681;20181;Fundamentos y Usos de Big Data;B2.577;1;*******
+1022972;1192681;20181;Pensamiento Analítico en la Empresa;B2.578;1;*******
+1025425;1199999;20181;Fundamentos de Inteligencia de Negocio;B2.320;2;*******
+1025425;1199999;20181;Gestión de Proyectos de BI;B2.321;1;*******
+1025425;1199999;20181;Fundamentos y Usos de Big Data;B2.577;2;*******
+1025425;1199999;20181;Pensamiento Analítico en la Empresa;B2.578;2;*******
+1024978;1198636;20181;Fundamentos de Inteligencia de Negocio;B2.320;3;*******
+1024978;1198636;20181;Gestión de Proyectos de BI;B2.321;3;*******
+1024978;1198636;20181;Fundamentos y Usos de Big Data;B2.577;3;*******
+1024978;1198636;20181;Pensamiento Analítico en la Empresa;B2.578;3;*******
+1011729;1186255;20181;Minería de Datos: Conceptos y Técnicas;B2.324;1;*******
+1011729;1186255;20181;Business Analytics: Modelos y Algoritmos;B2.325;1;*******
+1011729;1186255;20181;Sistemas de reporting y cuadros de mando;B2.579;2;*******
+1011729;1186255;20181;Gobierno de datos (Data governance);B2.580;2;*******
+201364;28162;20181;Fundamentos de Inteligencia de Negocio;B2.320;3;*******
+201364;28162;20181;Gestión de Proyectos de BI;B2.321;3;*******
+201364;28162;20181;Fundamentos y Usos de Big Data;B2.577;3;*******
+201364;28162;20181;Pensamiento Analítico en la Empresa;B2.578;3;*******
+967948;1101422;20181;Diseño y Construcción del Almacén de Datos Data warehouse;B2.581;1;*******
+967948;1101422;20181;Bases de Datos para Data Warehouse;B2.582;1;*******
+967948;1101422;20181;Explotación y Administración del Data Warehouse;B2.583;1;*******
+1021378;1189920;20181;Fundamentos de Inteligencia de Negocio;B2.320;1;*******
+1021378;1189920;20181;Gestión de Proyectos de BI;B2.321;2;*******
+1021378;1189920;20181;Fundamentos y Usos de Big Data;B2.577;1;*******
+1021378;1189920;20181;Pensamiento Analítico en la Empresa;B2.578;1;*******
+1007198;1172023;20181;Fundamentos de Inteligencia de Negocio;B2.320;2;*******
+1007198;1172023;20181;Gestión de Proyectos de BI;B2.321;1;*******
+1007198;1172023;20181;Fundamentos y Usos de Big Data;B2.577;1;*******
+1007198;1172023;20181;Pensamiento Analítico en la Empresa;B2.578;3;*******
+1014325;1182239;20181;Minería de Datos: Conceptos y Técnicas;B2.324;1;*******
+1014325;1182239;20181;Business Analytics: Modelos y Algoritmos;B2.325;3;*******
+1014325;1182239;20181;Sistemas de reporting y cuadros de mando;B2.579;1;*******
+1014325;1182239;20181;Gobierno de datos (Data governance);B2.580;1;*******
+968175;1102022;20181;Minería de Datos: Conceptos y Técnicas;B2.324;1;*******
+968175;1102022;20181;Business Analytics: Modelos y Algoritmos;B2.325;2;*******
+968175;1102022;20181;Sistemas de reporting y cuadros de mando;B2.579;1;*******
+968175;1102022;20181;Gobierno de datos (Data governance);B2.580;1;*******
+1002077;1165713;20181;Fundamentos de Inteligencia de Negocio;B2.320;1;*******
+1002077;1165713;20181;Gestión de Proyectos de BI;B2.321;2;*******
+1002077;1165713;20181;Fundamentos y Usos de Big Data;B2.577;1;*******
+1002077;1165713;20181;Pensamiento Analítico en la Empresa;B2.578;1;*******
+900967;1000301;20181;Minería de Datos: Conceptos y Técnicas;B2.324;1;*******
+900967;1000301;20181;Business Analytics: Modelos y Algoritmos;B2.325;3;*******
+900967;1000301;20181;Gobierno de datos (Data governance);B2.580;2;*******
+387092;77854;20181;Fundamentos de Inteligencia de Negocio;B2.320;3;*******
+387092;77854;20181;Gestión de Proyectos de BI;B2.321;3;*******
+387092;77854;20181;Fundamentos y Usos de Big Data;B2.577;3;*******
+387092;77854;20181;Pensamiento Analítico en la Empresa;B2.578;2;*******
+851180;1163847;20181;Fundamentos de Inteligencia de Negocio;B2.320;3;*******
+851180;1163847;20181;Gestión de Proyectos de BI;B2.321;3;*******
+851180;1163847;20181;Fundamentos y Usos de Big Data;B2.577;3;*******
+851180;1163847;20181;Pensamiento Analítico en la Empresa;B2.578;1;*******
+552960;319423;20181;Fundamentos de Inteligencia de Negocio;B2.320;3;*******
+552960;319423;20181;Gestión de Proyectos de BI;B2.321;3;*******
+552960;319423;20181;Fundamentos y Usos de Big Data;B2.577;3;*******
+552960;319423;20181;Pensamiento Analítico en la Empresa;B2.578;2;*******
+668517;437283;20181;Fundamentos de Inteligencia de Negocio;B2.320;3;*******
+668517;437283;20181;Gestión de Proyectos de BI;B2.321;3;*******
+668517;437283;20181;Fundamentos y Usos de Big Data;B2.577;3;*******
+668517;437283;20181;Pensamiento Analítico en la Empresa;B2.578;1;*******
+1024874;1197636;20181;Fundamentos de Inteligencia de Negocio;B2.320;1;*******
+1024874;1197636;20181;Gestión de Proyectos de BI;B2.321;1;*******
+1024874;1197636;20181;Fundamentos y Usos de Big Data;B2.577;1;*******
+1024874;1197636;20181;Pensamiento Analítico en la Empresa;B2.578;1;*******
+1024045;1195878;20181;Fundamentos de Inteligencia de Negocio;B2.320;1;*******
+1024045;1195878;20181;Gestión de Proyectos de BI;B2.321;1;*******
+1024045;1195878;20181;Fundamentos y Usos de Big Data;B2.577;1;*******
+1024045;1195878;20181;Pensamiento Analítico en la Empresa;B2.578;1;*******
+1003049;1168329;20181;Fundamentos de Inteligencia de Negocio;B2.320;2;*******
+1003049;1168329;20181;Gestión de Proyectos de BI;B2.321;1;*******
+1003049;1168329;20181;Fundamentos y Usos de Big Data;B2.577;2;*******
+1003049;1168329;20181;Pensamiento Analítico en la Empresa;B2.578;2;*******
+744737;565637;20181;Fundamentos de Inteligencia de Negocio;B2.320;3;*******
+744737;565637;20181;Gestión de Proyectos de BI;B2.321;3;*******
+744737;565637;20181;Fundamentos y Usos de Big Data;B2.577;3;*******
+744737;565637;20181;Pensamiento Analítico en la Empresa;B2.578;1;*******
+1007184;1181418;20181;Fundamentos de Inteligencia de Negocio;B2.320;2;*******
+1007184;1181418;20181;Gestión de Proyectos de BI;B2.321;1;*******
+1007184;1181418;20181;Fundamentos y Usos de Big Data;B2.577;1;*******
+1007184;1181418;20181;Pensamiento Analítico en la Empresa;B2.578;1;*******
+1027535;1204334;20181;Fundamentos de Inteligencia de Negocio;B2.320;2;*******
+1027535;1204334;20181;Gestión de Proyectos de BI;B2.321;2;*******
+1027535;1204334;20181;Fundamentos y Usos de Big Data;B2.577;2;*******
+1027535;1204334;20181;Pensamiento Analítico en la Empresa;B2.578;2;*******
+662966;429152;20181;Fundamentos de Inteligencia de Negocio;B2.320;3;*******
+662966;429152;20181;Gestión de Proyectos de BI;B2.321;3;*******
+662966;429152;20181;Fundamentos y Usos de Big Data;B2.577;3;*******
+662966;429152;20181;Pensamiento Analítico en la Empresa;B2.578;3;*******
+1023051;1192866;20181;Diseño y Construcción del Almacén de Datos Data warehouse;B2.581;1;*******
+1023051;1192866;20181;Bases de Datos para Data Warehouse;B2.582;1;*******
+1023051;1192866;20181;Explotación y Administración del Data Warehouse;B2.583;1;*******
+993120;1150690;20181;Fundamentos de Inteligencia de Negocio;B2.320;1;*******
+993120;1150690;20181;Gestión de Proyectos de BI;B2.321;3;*******
+993120;1150690;20181;Fundamentos y Usos de Big Data;B2.577;1;*******
+993120;1150690;20181;Pensamiento Analítico en la Empresa;B2.578;1;*******
+1008423;1174522;20181;Fundamentos de Inteligencia de Negocio;B2.320;1;*******
+1008423;1174522;20181;Gestión de Proyectos de BI;B2.321;1;*******
+1008423;1174522;20181;Fundamentos y Usos de Big Data;B2.577;1;*******
+1008423;1174522;20181;Pensamiento Analítico en la Empresa;B2.578;3;*******
+933463;1052046;20181;Fundamentos de Inteligencia de Negocio;B2.320;2;*******
+933463;1052046;20181;Gestión de Proyectos de BI;B2.321;2;*******
+933463;1052046;20181;Fundamentos y Usos de Big Data;B2.577;2;*******
+933463;1052046;20181;Pensamiento Analítico en la Empresa;B2.578;2;*******
+1001342;1164312;20181;Fundamentos de Inteligencia de Negocio;B2.320;1;*******
+1001342;1164312;20181;Gestión de Proyectos de BI;B2.321;1;*******
+1001342;1164312;20181;Fundamentos y Usos de Big Data;B2.577;1;*******
+1001342;1164312;20181;Pensamiento Analítico en la Empresa;B2.578;2;*******
+720097;1191136;20181;Fundamentos de Inteligencia de Negocio;B2.320;3;*******
+857427;934371;20181;Sistemas de reporting y cuadros de mando;B2.579;1;*******
+1000250;1162867;20181;Minería de Datos: Conceptos y Técnicas;B2.324;1;*******
+1000250;1162867;20181;Business Analytics: Modelos y Algoritmos;B2.325;3;*******
+1000250;1162867;20181;Sistemas de reporting y cuadros de mando;B2.579;1;*******
+1000250;1162867;20181;Gobierno de datos (Data governance);B2.580;2;*******
+199507;26398;20181;Fundamentos de Inteligencia de Negocio;B2.320;3;*******
+199507;26398;20181;Gestión de Proyectos de BI;B2.321;3;*******
+199507;26398;20181;Fundamentos y Usos de Big Data;B2.577;3;*******
+199507;26398;20181;Pensamiento Analítico en la Empresa;B2.578;2;*******
+1001144;1164053;20181;Fundamentos de Inteligencia de Negocio;B2.320;1;*******
+1001144;1164053;20181;Gestión de Proyectos de BI;B2.321;1;*******
+1001144;1164053;20181;Fundamentos y Usos de Big Data;B2.577;1;*******
+1001144;1164053;20181;Pensamiento Analítico en la Empresa;B2.578;1;*******
+1000283;1164107;20181;Minería de Datos: Conceptos y Técnicas;B2.324;1;*******
+1000283;1164107;20181;Business Analytics: Modelos y Algoritmos;B2.325;1;*******
+1000283;1164107;20181;Sistemas de reporting y cuadros de mando;B2.579;2;*******
+1000283;1164107;20181;Gobierno de datos (Data governance);B2.580;3;*******
+1001024;1163886;20181;Fundamentos de Inteligencia de Negocio;B2.320;2;*******
+1001024;1163886;20181;Gestión de Proyectos de BI;B2.321;2;*******
+1001024;1163886;20181;Fundamentos y Usos de Big Data;B2.577;2;*******
+1001024;1163886;20181;Pensamiento Analítico en la Empresa;B2.578;1;*******
+1025438;1199597;20181;Fundamentos y Usos de Big Data;B2.577;3;*******
+690442;581865;20181;Escenarios de uso de Big Data;B2.584;1;*******
+690442;581865;20181;Tecnologías de Big data;B2.585;1;*******
+690442;581865;20181;Bases de Datos NoSQL;B2.586;1;*******
+1006593;1171146;20181;Fundamentos de Inteligencia de Negocio;B2.320;1;*******
+1006593;1171146;20181;Gestión de Proyectos de BI;B2.321;2;*******
+1006593;1171146;20181;Fundamentos y Usos de Big Data;B2.577;1;*******
+1006593;1171146;20181;Pensamiento Analítico en la Empresa;B2.578;2;*******
+663905;437799;20181;Fundamentos y Usos de Big Data;B2.577;3;*******
+398149;86625;20181;Minería de Datos: Conceptos y Técnicas;B2.324;1;*******
+398149;86625;20181;Business Analytics: Modelos y Algoritmos;B2.325;2;*******
+398149;86625;20181;Sistemas de reporting y cuadros de mando;B2.579;3;*******
+398149;86625;20181;Gobierno de datos (Data governance);B2.580;1;*******
+1021638;1190276;20181;Fundamentos de Inteligencia de Negocio;B2.320;2;*******
+1021638;1190276;20181;Gestión de Proyectos de BI;B2.321;1;*******
+1021638;1190276;20181;Fundamentos y Usos de Big Data;B2.577;2;*******
+1021638;1190276;20181;Pensamiento Analítico en la Empresa;B2.578;2;*******
+1007466;1173377;20181;Minería de Datos: Conceptos y Técnicas;B2.324;1;*******
+1007466;1173377;20181;Business Analytics: Modelos y Algoritmos;B2.325;2;*******
+1007466;1173377;20181;Sistemas de reporting y cuadros de mando;B2.579;3;*******
+1007466;1173377;20181;Gobierno de datos (Data governance);B2.580;3;*******
+834974;876687;20181;Diseño y Construcción del Almacén de Datos Data warehouse;B2.581;1;*******
+834974;876687;20181;Bases de Datos para Data Warehouse;B2.582;1;*******
+834974;876687;20181;Explotación y Administración del Data Warehouse;B2.583;1;*******
+846886;914051;20181;Escenarios de uso de Big Data;B2.584;2;*******
+846886;914051;20181;Tecnologías de Big data;B2.585;1;*******
+905981;1164674;20181;Fundamentos de Inteligencia de Negocio;B2.320;3;*******
+905981;1164674;20181;Gestión de Proyectos de BI;B2.321;3;*******
+905981;1164674;20181;Fundamentos y Usos de Big Data;B2.577;3;*******
+905981;1164674;20181;Pensamiento Analítico en la Empresa;B2.578;2;*******
+537873;308462;20181;Fundamentos de Inteligencia de Negocio;B2.320;3;*******
+537873;308462;20181;Gestión de Proyectos de BI;B2.321;3;*******
+537873;308462;20181;Fundamentos y Usos de Big Data;B2.577;3;*******
+537873;308462;20181;Pensamiento Analítico en la Empresa;B2.578;3;*******
+1000249;1162866;20181;Fundamentos de Inteligencia de Negocio;B2.320;2;*******
+1000249;1162866;20181;Gestión de Proyectos de BI;B2.321;2;*******
+1000249;1162866;20181;Fundamentos y Usos de Big Data;B2.577;2;*******
+1000249;1162866;20181;Pensamiento Analítico en la Empresa;B2.578;2;*******
+997005;1156580;20181;Fundamentos de Inteligencia de Negocio;B2.320;2;*******
+997005;1156580;20181;Gestión de Proyectos de BI;B2.321;2;*******
+997005;1156580;20181;Fundamentos y Usos de Big Data;B2.577;2;*******
+997005;1156580;20181;Pensamiento Analítico en la Empresa;B2.578;1;*******
+593443;357151;20181;Minería de Datos: Conceptos y Técnicas;B2.324;1;*******
+593443;357151;20181;Business Analytics: Modelos y Algoritmos;B2.325;3;*******
+593443;357151;20181;Sistemas de reporting y cuadros de mando;B2.579;1;*******
+593443;357151;20181;Gobierno de datos (Data governance);B2.580;1;*******
+576550;340210;20181;Fundamentos de Inteligencia de Negocio;B2.320;3;*******
+576550;340210;20181;Gestión de Proyectos de BI;B2.321;3;*******
+576550;340210;20181;Fundamentos y Usos de Big Data;B2.577;3;*******
+576550;340210;20181;Pensamiento Analítico en la Empresa;B2.578;3;*******
+1000431;1163109;20181;Fundamentos de Inteligencia de Negocio;B2.320;2;*******
+1000431;1163109;20181;Gestión de Proyectos de BI;B2.321;2;*******
+1000431;1163109;20181;Fundamentos y Usos de Big Data;B2.577;2;*******
+1000431;1163109;20181;Pensamiento Analítico en la Empresa;B2.578;3;*******
+521761;292091;20181;Gestión Económico-Financiera: Casos de Negocio;B2.587;1;*******
+521761;292091;20181;Marketing y Ventas: Casos de Negocio;B2.588;1;*******
+521761;292091;20181;Operaciones y Logística: Casos de Negocio;B2.589;1;*******
+521761;292091;20181;Recursos humanos: casos de negocio;B2.590;1;*******
+1004925;1168886;20181;Fundamentos de Inteligencia de Negocio;B2.320;2;*******
+1004925;1168886;20181;Gestión de Proyectos de BI;B2.321;1;*******
+1004925;1168886;20181;Fundamentos y Usos de Big Data;B2.577;2;*******
+1004925;1168886;20181;Pensamiento Analítico en la Empresa;B2.578;1;*******
+456091;213322;20181;Fundamentos de Inteligencia de Negocio;B2.320;3;*******
+456091;213322;20181;Gestión de Proyectos de BI;B2.321;3;*******
+456091;213322;20181;Fundamentos y Usos de Big Data;B2.577;3;*******
+456091;213322;20181;Pensamiento Analítico en la Empresa;B2.578;2;*******
+1001593;1164642;20181;Fundamentos de Inteligencia de Negocio;B2.320;2;*******
+1001593;1164642;20181;Gestión de Proyectos de BI;B2.321;1;*******
+1001593;1164642;20181;Fundamentos y Usos de Big Data;B2.577;2;*******
+1001593;1164642;20181;Pensamiento Analítico en la Empresa;B2.578;2;*******
+704866;500933;20181;Minería de Datos: Conceptos y Técnicas;B2.324;1;*******
+704866;500933;20181;Business Analytics: Modelos y Algoritmos;B2.325;2;*******
+704866;500933;20181;Sistemas de reporting y cuadros de mando;B2.579;2;*******
+704866;500933;20181;Gobierno de datos (Data governance);B2.580;3;*******
+1025672;1200340;20181;Fundamentos de Inteligencia de Negocio;B2.320;2;*******
+1025672;1200340;20181;Gestión de Proyectos de BI;B2.321;2;*******
+1025672;1200340;20181;Fundamentos y Usos de Big Data;B2.577;2;*******
+1025672;1200340;20181;Pensamiento Analítico en la Empresa;B2.578;2;*******
+1027554;1204343;20181;Fundamentos de Inteligencia de Negocio;B2.320;1;*******
+1027554;1204343;20181;Gestión de Proyectos de BI;B2.321;1;*******
+1027554;1204343;20181;Fundamentos y Usos de Big Data;B2.577;1;*******
+1027554;1204343;20181;Pensamiento Analítico en la Empresa;B2.578;1;*******
+1024890;1201716;20181;Fundamentos de Inteligencia de Negocio;B2.320;1;*******
+1024890;1201716;20181;Gestión de Proyectos de BI;B2.321;1;*******
+1024890;1201716;20181;Fundamentos y Usos de Big Data;B2.577;1;*******
+1024890;1201716;20181;Pensamiento Analítico en la Empresa;B2.578;1;*******
+1025677;1200676;20181;Minería de Datos: Conceptos y Técnicas;B2.324;1;*******
+1025677;1200676;20181;Business Analytics: Modelos y Algoritmos;B2.325;2;*******
+1025677;1200676;20181;Sistemas de reporting y cuadros de mando;B2.579;2;*******
+1025677;1200676;20181;Gobierno de datos (Data governance);B2.580;1;*******
+1024000;1195826;20181;Fundamentos de Inteligencia de Negocio;B2.320;2;*******
+1024000;1195826;20181;Gestión de Proyectos de BI;B2.321;2;*******
+1024000;1195826;20181;Fundamentos y Usos de Big Data;B2.577;2;*******
+1024000;1195826;20181;Pensamiento Analítico en la Empresa;B2.578;2;*******
+1025144;1198656;20181;Fundamentos de Inteligencia de Negocio;B2.320;2;*******
+1025144;1198656;20181;Gestión de Proyectos de BI;B2.321;2;*******
+1025144;1198656;20181;Fundamentos y Usos de Big Data;B2.577;2;*******
+1025144;1198656;20181;Pensamiento Analítico en la Empresa;B2.578;2;*******
+1025471;1199842;20181;Fundamentos y Usos de Big Data;B2.577;2;*******
+681263;1198436;20181;Escenarios de uso de Big Data;B2.584;1;*******
+681263;1198436;20181;Tecnologías de Big data;B2.585;1;*******
+681263;1198436;20181;Bases de Datos NoSQL;B2.586;1;*******
+921936;1136328;20181;Fundamentos de Inteligencia de Negocio;B2.320;1;*******
+921936;1136328;20181;Gestión de Proyectos de BI;B2.321;1;*******
+921936;1136328;20181;Fundamentos y Usos de Big Data;B2.577;1;*******
+921936;1136328;20181;Pensamiento Analítico en la Empresa;B2.578;1;*******
+1025327;1199277;20181;Fundamentos de Inteligencia de Negocio;B2.320;1;*******
+1025327;1199277;20181;Gestión de Proyectos de BI;B2.321;1;*******
+1025327;1199277;20181;Fundamentos y Usos de Big Data;B2.577;1;*******
+1025327;1199277;20181;Pensamiento Analítico en la Empresa;B2.578;1;*******
