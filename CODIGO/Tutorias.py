@@ -2,8 +2,8 @@
 #	title: "Tutor-UOC: Seguimiento de alumnos UOC tutorizados"          #
 #       author: "José Luis Gómez"                                           #
 #       date: "08 de Noviembre de 2018"                                     #
-#       License: "MIT Licen                                                 #
-#       Copyright (c) 2018 jgomezgar@uoc.edu (Jose Luis Gomez)              #
+#       License: "MIT License"                                              #
+#       Copyright (c) 2018 jgomezgar@uoc.edu (José Luis Gómez)              #
 #############################################################################
 	
 from selenium import webdriver 
@@ -75,6 +75,7 @@ def SESSION():
 	browser = webdriver.Chrome(executable_path="chromedriver/chromedriver.exe", chrome_options=option)
 	URL_sesion="http://cv.uoc.edu/UOC/rac/tutor.html"
 	browser.get(URL_sesion)
+	### espera a que carge la pagina
 	WebDriverWait(browser, 15).until(EC.visibility_of_element_located((By.XPATH, "//img[@class='img-responsive']")))
 	un = browser.find_element_by_id("username") #username form field
 	pw = browser.find_element_by_id("password") #password form field
@@ -86,6 +87,7 @@ def SESSION():
 	SESS= browser.current_url.replace(URL_sesion,"").replace("?s=","")
 	### MODO TUTOR
 	browser.get("http://cv.uoc.edu/rb/inici/grid?s="+SESS)
+	### espera a que carge la pagina
 	WebDriverWait(browser, 15).until(EC.visibility_of_element_located((By.XPATH, "//span[@class='userprofile__thumb']")))
 	browser.find_element_by_xpath("//select[@id='profile']/option[@value='UOC-TUTOR_PG-pg-b']").click()
 	print()
