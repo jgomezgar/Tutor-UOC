@@ -1,5 +1,5 @@
 #############################################################################
-#	title: "Tutor-UOC: Seguimiento de alumnos UOC tutorizados"          #
+#	title: "Tutor-UOC: Seguimiento de alumnos UOC tutorizados"           #
 #       author: "José Luis Gómez"                                           #
 #       date: "08 de Noviembre de 2018"                                     #
 #       License: "MIT License"                                              #
