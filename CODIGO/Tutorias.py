@@ -91,7 +91,7 @@ def PLANES(SESSION):
 	Planes_soup = soup(rPlanes.read(), "html.parser")
 	rPlanes.close()
 	
-	## El código html aparece dentro del código javascript, por lo que es posible tratarlo como html, sin embargo, las variables que buscamos aparecen precedidas por el string  "i_codplan="
+	## El cÃ³digo html aparece dentro del cÃ³digo javascript, por lo que es posible tratarlo como html, sin embargo, las variables que buscamos aparecen precedidas por el string  "i_codplan="
 	Init=0
 	Planes=[]
 	### Numero de ocurencias del string "i_codplan="
