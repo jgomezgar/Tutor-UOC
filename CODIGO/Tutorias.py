@@ -22,7 +22,7 @@ import sys
 import os
 import csv
 from pathlib import Path
-######### from html_table_extractor.extractor import Extractor
+#########
 
 option = webdriver.ChromeOptions()
 option.add_argument("--incognito")
@@ -377,17 +377,6 @@ def MENU_UPDATE():
 	print()
 
 
-def menu(txt):
-	os.system('cls')
-	print(txt)
-	print()
-	print("Pulse 1, para actualizar PECs y Conexiones")
-	print("Pulse 2, para actualizar TODO")
-	print("Pulse 3, para actualizar SETTINGs")
-	print("Pulse 4, para SALIR")
-	print('')
-	return  input("Su seleccion: ")
-
 def input_setting():
 	filename="Settings.csv"
 	head="SEMESTRE;SubAreaCode;username;password;Path"
@@ -403,6 +392,17 @@ def input_setting():
 	settings.append(sett)
 	# opens file, and writes
 	Guardar_CSV(filename, head.split(sep=';'), settings)
+
+def menu(txt):
+	os.system('cls')
+	print(txt)
+	print()
+	print("Pulse 1, para actualizar PECs y Conexiones")
+	print("Pulse 2, para actualizar TODO")
+	print("Pulse 3, para actualizar SETTINGs")
+	print("Pulse 4, para SALIR")
+	print('')
+	return  input("Su seleccion: ")
 
 def main(txt):
 	opcion=menu(txt)
