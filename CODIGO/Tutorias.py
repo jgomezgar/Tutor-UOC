@@ -1,3 +1,11 @@
+#############################################################################
+#	title: "Tutor-UOC: Seguimiento de alumnos UOC tutorizados"          #
+#       author: "José Luis Gómez"                                           #
+#       date: "08 de Noviembre de 2018"                                     #
+#       License: "MIT Licen                                                 #
+#       Copyright (c) 2018 jgomezgar@uoc.edu (Jose Luis Gomez)              #
+#############################################################################
+	
 from selenium import webdriver 
 from selenium.webdriver.common.by import By 
 from selenium.webdriver.support.ui import WebDriverWait 
